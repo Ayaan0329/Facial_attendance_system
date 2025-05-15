@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 # MongoDB connection
 # t0hEfqFazjyIPFER
-client = MongoClient('mongodb+srv://bhawneet0371be21:t0hEfqFazjyIPFER@cluster0.msnq79k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+client = MongoClient('!!!!!!!!!!!!!!!!!!!!MONGODB URI HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 db = client['camAttendance']
 
 # Saving Date today in 2 different formats
